@@ -99,10 +99,7 @@ QuizFlow/
 - `npm run dev`: Uygulamayı nodemon ile izleme modunda başlatır.
 - `npm test`: (Henüz test betikleri eklenmedi.)
 
-## Katkıda Bulunma
 
-Pull request’ler ve issue bildirimleri hoş gelir. Projeye katkıda bulunmadan önce lütfen `CONTRIBUTING.md` dosyasını okuyun.
 
----
 
 **Not:** Projede `node_modules/` klasörü yer almaktadır, çalıştırmadan önce `npm install` komutunu mutlaka çalıştırın.
